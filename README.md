@@ -114,3 +114,7 @@ Caused by: java.io.IOException: No such file or directory
 	at proguard.io.DirectoryPump.pumpDataEntries(DirectoryPump.java)
 	                             readFiles(DirectoryPump.java)
 ```	
+
+#Detailed guides
+[ProGuard](http://developer.android.com/tools/help/proguard.html#enabling-gradle)
+[ProGuard Manual](http://proguard.sourceforge.net/manual/)  
