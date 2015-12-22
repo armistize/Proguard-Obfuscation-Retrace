@@ -1,4 +1,5 @@
 # Proguard-Obfuscation-Retrace
+The ProGuard tool shrinks, optimizes, and obfuscates your code by removing unused code and renaming classes, fields, and methods with semantically obscure names.
 
 # Enabling ProGuard (Gradle Builds)
 Set the minifyEnabled property to true to enable ProGuard.
